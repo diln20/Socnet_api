@@ -1,5 +1,10 @@
 ﻿# Socnetv2 api
  
+ 
+![image](https://user-images.githubusercontent.com/64329987/209417958-56d3019e-cd3b-4353-aa35-0ac44005d9ed.png)
+ 
+ 
+ 
 FastAPI es un marco web moderno, rápido (de alto rendimiento) para crear API con Python 3.7+ basado en sugerencias de tipo estándar de Python.
 
 Las características clave son:
